@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ewnetu-github
 - 👀 I’m interested in modeling survival data possibly subject to right-censoring.
-- 🌱 I’m currently learning PhD in statistics.
+- 🌱 I’m currently studying my PhD in statistics.
 - 💞️ I’m looking to collaborate on survival data analysis.
 - 📫 How to reach me ...
 
