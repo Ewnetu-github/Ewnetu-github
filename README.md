@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ewnetu-github
+- 👋 Hi, I’m Ewnetu Worku
 - 👀 I’m interested in modeling survival data possibly subject to right-censoring.
 - 🌱 I’m currently studying my PhD in statistics.
 - 💞️ I’m looking to collaborate on survival data analysis.
