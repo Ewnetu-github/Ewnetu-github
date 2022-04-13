@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ewnetu Worku
-- 👀 I’m interested in modeling survival data possibly subject to right-censoring.
-- 💞️ I’m looking to collaborate on survival data analysis.
+- 👀 I’m interested in modeling survival data possibly subject to right-censoring, logitudinal analysis and multivariate analysis.
 - 📫 How to reach me? **workustat@gmail.com**
 
 <!---
